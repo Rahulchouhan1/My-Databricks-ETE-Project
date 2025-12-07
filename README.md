@@ -35,8 +35,7 @@ The final Gold layer is modeled for optimal reporting performance:
 ## 📊 Power BI Dashboard
 A comprehensive dashboard connected to the Gold Layer to track KPIs.
 
-![Dashboard Screenshot](power_bi/dashboard_screenshot.png)
-*(Note: Replace the path above with your actual screenshot file path)*
+![Dashboard Screenshot](power_bi/power_bi/dashboard_screenshot.png)
 
 **Key Visuals:**
 1.  **Monthly Sales Trend (Line Chart):** Tracks revenue growth over time to identify seasonality.
